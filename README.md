@@ -3,6 +3,7 @@
 Curso gratuito de Python Fundamentos para Análise de Dados da Data Science Academy:
 
 <ul>
+  <li>Introdução</li>
   <li>Variáveis, Tipos e Estruturas de Dados</li>
   <li>Loops, Condicionais, Métodos e Funções</li>
   <li>Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in</li>
