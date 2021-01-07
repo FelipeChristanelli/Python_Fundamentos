@@ -16,7 +16,7 @@ Curso gratuito de Python Fundamentos para Análise de Dados da Data Science Acad
   <li>Bônus - Introdução a Deep Learning</li>
   <li>Desenvolvimento Web</li>
   <li>Introdução ao Web Scraping</li>
-  
+</ul>
 
 <center><img src="https://user-images.githubusercontent.com/61481422/103898430-adda0480-50d3-11eb-8ef3-7eba65629b72.jpg" alt="" width="800"></center>
 
