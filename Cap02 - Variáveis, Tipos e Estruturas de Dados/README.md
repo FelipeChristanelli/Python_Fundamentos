@@ -19,3 +19,4 @@ No 2º Capítulo do curso começamos a aprender os Fundamentos e ao final desenv
   <li>Exercícios</li>
   <li>Lab01 - Desenvolvendo Game em Python</li>
 </ul>
+
