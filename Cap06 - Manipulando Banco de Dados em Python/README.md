@@ -1,6 +1,6 @@
 ## Manipulando Banco de Dados em Python
 
-No 6º Capítulos aprendemos sobre Manipulação de Banco de Dados em Python, utilizamos o SQLite e MongoDB, lembrando, sempre com o Jupyter Notebook:
+No 6º Capítulo aprendemos sobre Manipulação de Banco de Dados em Python, utilizamos o SQLite e MongoDB, lembrando, sempre com o Jupyter Notebook:
 
 <ul>
   <li>Introdução a Bancos de Dados</li>

@@ -1,6 +1,6 @@
 ## Loops, Condicionais, Métodos e Funções
 
-No 3º Capítulos aprendemos algumas Funções, Loops, Condicionais e Métodos sempre seguido de um notebook do item aprendido:
+No 3º Capítulo aprendemos algumas Funções, Loops, Condicionais e Métodos sempre seguido de um notebook do item aprendido:
 
 <ul>
   <li>Condicionais - If/Else/Elif</li>

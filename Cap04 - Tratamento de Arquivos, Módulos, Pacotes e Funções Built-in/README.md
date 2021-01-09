@@ -1,6 +1,6 @@
 ## Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 
-No 4º Capítulos aprendemos Manipulação de arquivos em Python, Módulos, Pacotes e Funções Built-in sempre seguido de um notebook do item aprendido:
+No 4º Capítulo aprendemos Manipulação de arquivos em Python, Módulos, Pacotes e Funções Built-in sempre seguido de um notebook do item aprendido:
 
 <ul>
   <li>Arquivos</li>

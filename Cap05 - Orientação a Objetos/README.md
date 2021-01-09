@@ -1,6 +1,6 @@
 ## Orientação a Objetos
 
-No 5º Capítulos aprendemos sobre Programação Orientada a Objetos (POO) sempre seguido de um notebook do item aprendido:
+No 5º Capítulo aprendemos sobre Programação Orientada a Objetos (POO) sempre seguido de um notebook do item aprendido:
 
 <ul>
   <li>Introdução à Programação Orientada a Objetos</li>
