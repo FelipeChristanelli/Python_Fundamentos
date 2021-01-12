@@ -1,6 +1,6 @@
 ## Introdução a Machine Learning com Python
 
-No 10º Capítulo aprendemos uma Introdução sobre Machine Learning com Python, trabalhando dessa vez com o Jupyter lab:
+No 10º Capítulo aprendemos uma Introdução sobre Modelos de Machine Learning com Python, trabalhando dessa vez com o Jupyter lab:
 
 <ul>
   <li>Introdução a Machine Learning</li>
